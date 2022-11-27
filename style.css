@@ -7,6 +7,12 @@ body, html {
     
 }
 
+        /*nadpisy*/
+h1 {
+      color: green;
+}
+
+
         /*navigace*/
 
 
@@ -163,8 +169,27 @@ p {
     
 }
 
+.pscreen {
+   
+    color: white;
+    font-size: 35px;
+    
+}
+
+.img5 {
+    position:static;
+    display: block;
+    margin: 0px auto;
+    width: 800px;
+
+}
+
+
+
 .copywrite {
     color: white;
     text-align: center;
+    background: black;
+    margin-bottom: 5px;
 }
 
